@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memcrashed_CSharp", "Memcrashed_CSharp\Memcrashed_CSharp.csproj", "{F5692D4B-D793-4EE8-93FE-D270C05A990D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5692D4B-D793-4EE8-93FE-D270C05A990D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5692D4B-D793-4EE8-93FE-D270C05A990D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5692D4B-D793-4EE8-93FE-D270C05A990D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5692D4B-D793-4EE8-93FE-D270C05A990D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9710F2E8-8F47-4985-A7FD-CC1A306619F4}
+	EndGlobalSection
+EndGlobal
